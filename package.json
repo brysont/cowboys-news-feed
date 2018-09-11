@@ -1,0 +1,27 @@
+{
+  "name": "cowboys-news-feed",
+  "version": "0.1.0",
+  "description": "Dallas Cowboys football news from around the web, right on your desktop.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brysont/cowboys-news-feed.git"
+  },
+  "keywords": [
+    "Dallas Cowboys",
+    "News Feed",
+    "Desktop App"
+  ],
+  "author": "Treece Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brysont/cowboys-news-feed/issues"
+  },
+  "homepage": "https://github.com/brysont/cowboys-news-feed#readme",
+  "devDependencies": {
+    "electron": "^2.0.9"
+  }
+}
